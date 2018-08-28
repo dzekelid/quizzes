@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/o
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Quizzes
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/quizzes/master/_listings/openminds/apis.md
 specificationVersion: "0.14"
 apis: []
